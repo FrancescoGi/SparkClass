@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Francesco",
+    "gender": "M",
+    "age": 34
+  },
+  {
+    "name": "Pina",
+    "gender": "F",
+    "age": 15
+  },
+  {
+    "name": "Giuseppe",
+    "gender": "M",
+    "age": 44
+  },
+  {
+    "name": "Lucia",
+    "gender": "F",
+    "age": 35
+  },
+  {
+    "name": "Chiara",
+    "gender": "F",
+    "age": 48
+  },
+  {
+    "name": "Gianni",
+    "gender": "M",
+    "age": 17
+  }
+]
