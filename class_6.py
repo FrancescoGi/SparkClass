@@ -20,6 +20,9 @@ if __name__=='__main__':
 
     #Show delle prime righe del DataFrame
     df_iris.show()
+    
+    df_iris = df_iris.groupBy(col("class")).agg(sum(col("sepal_length_in_cm")))
+    df_iris.show()
 
     #Creazione della lista di tuple dai cui verrà creato il DataFrame
     list = [("Iris-setosa", "Descrizione 1", "Europa"),
